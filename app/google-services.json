@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "40440682935",
+    "firebase_url": "https://happy-eats.firebaseio.com",
+    "project_id": "happy-eats",
+    "storage_bucket": "happy-eats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40440682935:android:72b98cf70e17461d",
+        "android_client_info": {
+          "package_name": "com.example.sarabjeetsingh.happyeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40440682935-hvq4e2hk1vlt6t6ncabof59esk43auao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarabjeetsingh.happyeats",
+            "certificate_hash": "cb715e3549a80add9970e4ce5467b3b894611379"
+          }
+        },
+        {
+          "client_id": "40440682935-cqu1fl9nt5d7nq70svsujl8p68aa97ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB39eJOqb-v01Whr5l5KsITiFN0S0TVRB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40440682935-cqu1fl9nt5d7nq70svsujl8p68aa97ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
